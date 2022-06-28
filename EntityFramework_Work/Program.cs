@@ -14,6 +14,7 @@ namespace EntityFramework_Work
             //Dapper
 
             //GetAll();
+
             GetProductByCategory(1);
 
         }
